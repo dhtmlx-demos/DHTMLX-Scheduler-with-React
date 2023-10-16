@@ -1278,7 +1278,7 @@
   resolved "https://registry.yarnpkg.com/@csstools/selector-specificity/-/selector-specificity-2.2.0.tgz#2cbcf822bf3764c9658c4d2e568bd0c0cb748016"
   integrity sha512-+OJ9konv95ClSTOJCmMZqpd5+YGsB2S+x6w3E1oaM8UuR5j8nTNHYSz8c9BEPGDOCMQYIEEGlVPj/VY64iTbGw==
 
-"@dhx/trial-gantt@^8.0.6":
+"@dhx/trial-gantt@^8.0.3":
   version "8.0.3"
   resolved "https://npm.dhtmlx.com/@dhx%2ftrial-gantt/-/trial-gantt-8.0.3.tgz#5119ec544aa14f5ba69c173d48c0e7e7fb3a0e3f"
   integrity sha512-I22VDrPHOtjPjBzzyfV00oMT6/+TwT+Jb0YLm3/bsC5HntgSZYlNMOGHwDx0vV5Tq2LOSu+xSuBScUQ+UsQTkQ==
