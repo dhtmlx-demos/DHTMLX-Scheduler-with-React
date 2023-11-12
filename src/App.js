@@ -1,9 +1,9 @@
 import "./styles.css";
-import Gantt from "./Gantt";
+import Scheduler from "./Scheduler";
 import { getData } from "./data.js";
 
 function App() {
-  return <Gantt tasks={getData()} />;
+  return <Scheduler events={getData()} />;
 }
 
 export default App;

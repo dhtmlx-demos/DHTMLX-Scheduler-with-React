@@ -1,5 +1,5 @@
 {
-  "name": "react-with-dhtmlx-gantt",
+  "name": "react-with-dhtmlx-scheduler",
   "version": "1.0.0",
   "description": "React example starter project",
   "keywords": [
@@ -8,7 +8,7 @@
   ],
   "main": "src/index.js",
   "dependencies": {
-    "@dhx/trial-gantt": "^8.0.3",
+    "@dhx/trial-scheduler": "^6.0.5",
     "loader-utils": "3.2.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
